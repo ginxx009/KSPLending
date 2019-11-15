@@ -4,11 +4,11 @@
 
 This system is about a lending system incorporated with 
 
-*MLM(Multi Level Marketing System)
-*UniLevel
-*Geanology (Binary Tree)
-*It has an admin / cashier / clients users
-* Payment Method (BDO, BPI etc)
+- MLM(Multi Level Marketing System)
+- UniLevel
+- Geanology (Binary Tree)
+- It has an admin / cashier / clients users
+- Payment Method (BDO, BPI etc)
 
 #Admin
 
